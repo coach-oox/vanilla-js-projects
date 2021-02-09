@@ -1,5 +1,7 @@
 # vanilla-js-projects
 
+Vanilla Javascript Project for Beginners.  
+
 -   [ ] Make README.md (all)
 
 ## Projects
