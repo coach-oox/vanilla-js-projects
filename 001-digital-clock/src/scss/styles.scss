@@ -1,0 +1,41 @@
+@import "./_variables";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: $base-font;
+    background-color: $grey;
+}
+
+.date {
+    text-align: center;
+    color: $white;
+    font-size: 1.2em;
+}
+
+.clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: $white;
+    margin: 1em 0;
+
+    > div:nth-child(2) {
+        margin: 0 0.5em;
+    }
+}
+
+.time {
+    background-color: $black;
+    border-radius: 15px;
+    padding: 2em;
+    font-size: 1.8em;
+}

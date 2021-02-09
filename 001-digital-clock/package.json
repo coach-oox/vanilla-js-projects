@@ -1,0 +1,21 @@
+{
+    "name": "001-digital-clock",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coach-oox/vanilla-js-projects/001-digital-clock"
+    },
+    "author": "coach-oox",
+    "license": "MIT",
+    "devDependencies": {
+        "@babel/core": "^7.12.10",
+        "@babel/preset-env": "^7.12.11",
+        "@babel/register": "^7.12.10",
+        "gulp": "^4.0.2",
+        "gulp-sass": "^4.1.0",
+        "node-sass": "^5.0.0"
+    }
+}
