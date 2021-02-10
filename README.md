@@ -2,7 +2,7 @@
 
 Vanilla Javascript Project for Beginners.  
 초보자를 위한 바닐라 자바스크립트 프로젝트 예제입니다.  
-(⚠️ 아직 업데이트 중)
+⚠️ 아직 업데이트 중
 
 ## Projects
 
