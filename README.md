@@ -1,12 +1,12 @@
 # vanilla-js-projects
 
-Vanilla Javascript Project for Beginners.
-
--   [ ] Make README.md (all)
+Vanilla Javascript Project for Beginners.  
+초보자를 위한 바닐라 자바스크립트 프로젝트 예제입니다.  
+(⚠️ 아직 업데이트 중)
 
 ## Projects
 
-1. [Digital Clock](https://coach-oox.github.io/vanilla-js-projects/001-digital-clock/)
+1. [Digital Clock](https://github.com/coach-oox/digital-clock)
 2. [Form Validator]()
 3. [iPhone Calculator]()
 4. [Smart Calculator]()
