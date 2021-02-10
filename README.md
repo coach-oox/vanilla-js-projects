@@ -1,6 +1,6 @@
 # vanilla-js-projects
 
-Vanilla Javascript Project for Beginners.  
+Vanilla Javascript Project for Beginners.
 
 -   [ ] Make README.md (all)
 
@@ -14,8 +14,7 @@ Vanilla Javascript Project for Beginners.
 6. [Mouse Over Play Board]()
 7. [Momory Game]()
 8. [To Do List]()
-
-<!--
-    독서 일기
-    영화 평점
--->
+9. [Transrated HackerNews]()
+10. [Weather App]()
+11. [Book Journal]()
+12. [Movie Journal]()
