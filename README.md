@@ -9,10 +9,10 @@ Vanilla Javascript Project for Beginners.
 ## Projects
 
 1. [Digital Clock](https://github.com/coach-oox/digital-clock)
-2. [Form Validator](https://coach-oox.github.io/form-validation/)
+2. [Form Validator](https://github.com/coach-oox/form-validation)
 3. [iPhone Calculator]()
 4. [Smart Calculator]()
-5. [Drawing Board](https://coach-oox.github.io/simple-drawing-board/)
+5. [Drawing Board](https://github.com/coach-oox/simple-drawing-board)
 6. [Mouse Over Play Board]()
 7. [Momory Game]()
 8. [To Do List]()
