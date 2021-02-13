@@ -16,7 +16,7 @@ Vanilla Javascript Project for Beginners.
 4. [Smart Calculator]()
 5. [Drawing Board](https://github.com/coach-oox/simple-drawing-board)
 6. [Mouse Over Play Board]()
-7. [Momory Game]()
+7. [Memory Game]()
 8. [To Do List]()
 9. [Transrated HackerNews]()
 10. [Weather App]()
