@@ -23,10 +23,10 @@ Vanilla Javascript Project for Beginners.
 4. [Memory Game](https://github.com/coach-oox/memory-game) (★★☆☆☆)
     - `createElement`, `localStorage`, Attributes, EventListener
 5. [iPhone Calculator]()
-6. [Smart Calculator]()
+6. [Weather App]()
 7. [To Do List]()
-8. [Transrated HackerNews]()
-9. [Weather App]()
-10. [Book Journal]()
-11. [Movie Journal]()
-12. [Calendar]()
+8. [Book Journal]()
+9. [Movie Journal]()
+10. [Calendar]()
+11. [Smart Calculator]()
+
