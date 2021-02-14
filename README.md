@@ -16,13 +16,13 @@ Vanilla Javascript Project for Beginners.
 
 ## Projects
 
-1. ★☆☆☆☆ [Digital Clock](https://github.com/coach-oox/digital-clock)
+1. [Digital Clock](https://github.com/coach-oox/digital-clock)(★☆☆☆☆)
     - `Date`, Template literals, `setInterval`
-2. ★☆☆☆☆ [Form Validator](https://github.com/coach-oox/form-validation)
+2. [Form Validator](https://github.com/coach-oox/form-validation)(★☆☆☆☆)
     - `ClassList`, `localStorage`
-3. ★☆☆☆☆ [Drawing Board](https://github.com/coach-oox/simple-drawing-board)
+3. [Drawing Board](https://github.com/coach-oox/simple-drawing-board)(★☆☆☆☆)
     - `canvas`, EventListener
-4. ★★☆☆☆ [Memory Game](https://github.com/coach-oox/memory-game)
+4. [Memory Game](https://github.com/coach-oox/memory-game)(★★☆☆☆)
     - `createElement`, `localStorage`, Attributes, EventListener
 5. [iPhone Calculator]()
 6. [Smart Calculator]()
