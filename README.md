@@ -23,7 +23,7 @@ Vanilla Javascript Project for Beginners.
 5. [Weather App](https://github.com/coach-oox/weather-app)
     -  `navigator.geolocation`,`fetch`
 6. [Book Journal]()
-7. [Movie Journal]()
+7. [Movie App]()
 8. [To Do List]()
 9. [Calendar]()
 10. [Smart Calculator]()
