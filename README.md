@@ -22,10 +22,9 @@ Vanilla Javascript Project for Beginners.
     - `createElement`, `localStorage`, Attributes, EventListener
 5. [Weather App](https://github.com/coach-oox/weather-app)
     -  `navigator.geolocation`,`fetch`
-6. [iPhone Calculator]()
-7. [To Do List]()
-8. [Book Journal]()
-9. [Movie Journal]()
-10. [Calendar]()
-11. [Smart Calculator]()
+6. [Book Journal]()
+7. [Movie Journal]()
+8. [To Do List]()
+9. [Calendar]()
+10. [Smart Calculator]()
 
