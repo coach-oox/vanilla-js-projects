@@ -4,8 +4,6 @@ Vanilla Javascript Project for Beginners.
 
 초보자를 위한 바닐라 자바스크립트 프로젝트 예제입니다. 수업용으로 작성되었으며, 난이도는 처음 자바스크립트를 접하시는분들께 적합한 예제들입니다. 본 프로젝트는 수업 준비하면서 겸사겸사, 독학하시는분들께 도움이 되고자 앞으로 계속 업데이트 해나갈 예정입니다.
 
-😎 난이도에 따라 골라서 학습하세요. 링크 아래 키워드는 해당 예제를 통해 학습할 수 있는 토픽입니다.
-
 ✅  '개인 공부' 목적을 제외한 사용을 금합니다.  
 ✅  블로그에 통째로 복붙해서 올리지 말아주세요.  
 ✅  인용할 때는 출처를 밝혀주세요.  
@@ -14,16 +12,17 @@ Vanilla Javascript Project for Beginners.
 
 ## Projects
 
-1. [Digital Clock](https://github.com/coach-oox/digital-clock) (★☆☆☆☆)
+1. [Digital Clock](https://github.com/coach-oox/digital-clock)
     - `Date`, Template literals, `setInterval`
-2. [Form Validator](https://github.com/coach-oox/form-validation) (★☆☆☆☆)
+2. [Form Validator](https://github.com/coach-oox/form-validation)
     - `ClassList`, `localStorage`
-3. [Drawing Board](https://github.com/coach-oox/simple-drawing-board) (★☆☆☆☆)
+3. [Drawing Board](https://github.com/coach-oox/simple-drawing-board)
     - `canvas`, EventListener
-4. [Memory Game](https://github.com/coach-oox/memory-game) (★★☆☆☆)
+4. [Memory Game](https://github.com/coach-oox/memory-game)
     - `createElement`, `localStorage`, Attributes, EventListener
-5. [iPhone Calculator]()
-6. [Weather App]()
+5. [Weather App](https://github.com/coach-oox/weather-app)
+    -  `navigator.geolocation`,`fetch`
+6. [iPhone Calculator]()
 7. [To Do List]()
 8. [Book Journal]()
 9. [Movie Journal]()
