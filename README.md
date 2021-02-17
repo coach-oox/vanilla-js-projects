@@ -24,8 +24,11 @@ Vanilla Javascript Project for Beginners.
     -  `navigator.geolocation`,`fetch`
 6. [Book Journal](https://github.com/coach-oox/book-journal-app)
     - `createElement`, `localStorage`, `forEach`, `filter`
-8. [Movie App]()
+7. [Pomodoro Clock]()
+8. [Meditation App]()
 9. [To Do List]()
 10. [Calendar]()
 11. [Smart Calculator]()
+12. [Tic Tac Toe]()
+13. [Image Editor]()
 
