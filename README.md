@@ -1,4 +1,4 @@
-# vanilla-js-projects
+# Vanilla Javascript Mini Projects
 
 Vanilla Javascript Project for Beginners.  
 
@@ -22,9 +22,10 @@ Vanilla Javascript Project for Beginners.
     - `createElement`, `localStorage`, Attributes, EventListener
 5. [Weather App](https://github.com/coach-oox/weather-app)
     -  `navigator.geolocation`,`fetch`
-6. [Book Journal]()
-7. [Movie App]()
-8. [To Do List]()
-9. [Calendar]()
-10. [Smart Calculator]()
+6. [Book Journal](https://github.com/coach-oox/book-journal-app)
+    - `createElement`, `localStorage`, `forEach`, `filter`
+8. [Movie App]()
+9. [To Do List]()
+10. [Calendar]()
+11. [Smart Calculator]()
 
