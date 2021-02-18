@@ -12,23 +12,34 @@ Vanilla Javascript Project for Beginners.
 
 ## Projects
 
-1. [Digital Clock](https://github.com/coach-oox/digital-clock)
+1. [Tabs]()
+2. [Modals]()
+3. [Carousel Slider]()
+4. [Digital Clock](https://github.com/coach-oox/digital-clock)
     - `Date`, Template literals, `setInterval`
-2. [Form Validator](https://github.com/coach-oox/form-validation)
+16. [Image Editor]()
+17. [Practice Array Methods]()
+18. [Form Validator](https://github.com/coach-oox/form-validation)
     - `ClassList`, `localStorage`
-3. [Drawing Board](https://github.com/coach-oox/simple-drawing-board)
+19. [Drawing Board](https://github.com/coach-oox/simple-drawing-board)
     - `canvas`, EventListener
-4. [Memory Game](https://github.com/coach-oox/memory-game)
+20. [Memory Game](https://github.com/coach-oox/memory-game)
     - `createElement`, `localStorage`, Attributes, EventListener
-5. [Weather App](https://github.com/coach-oox/weather-app)
+21. [Weather App](https://github.com/coach-oox/weather-app)
     -  `navigator.geolocation`,`fetch`
-6. [Book Journal](https://github.com/coach-oox/book-journal-app)
+22. [Book Journal](https://github.com/coach-oox/book-journal-app)
     - `createElement`, `localStorage`, `forEach`, `filter`
-7. [Pomodoro Clock]()
-8. [Meditation App]()
-9. [To Do List]()
-10. [Calendar]()
-11. [Smart Calculator]()
-12. [Tic Tac Toe]()
-13. [Image Editor]()
-
+23. [Pomodoro Clock]()
+24. [Music Player]()
+25. [Video Player]()
+26. [Memory Cards]()
+27. [Infinite Scrolling]()
+28. [Meditation App]()
+29. [To Do List]()
+30. [Calendar]()
+31. [Smart Calculator]()
+32. [Movie Seat Booking App]()
+33. [Tic Tac Toe]()
+34. [Hangman Game]()
+35. [Break Out Game]()
+36. [Typing Game]()
