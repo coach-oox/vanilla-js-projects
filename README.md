@@ -43,3 +43,4 @@ Vanilla Javascript Project for Beginners.
 34. [Hangman Game]()
 35. [Break Out Game]()
 36. [Typing Game]()
+37. [Snake Game]()
