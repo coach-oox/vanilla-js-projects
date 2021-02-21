@@ -14,7 +14,7 @@ Vanilla Javascript Project for Beginners.
 
 1. [Digital Clock](https://github.com/coach-oox/digital-clock)
 2. [Image Editor](https://github.com/coach-oox/image-effector)
-3. [Practice Array Methods]()
+3. [Practice Array Methods](https://github.com/coach-oox/array-methods)
 4. [Form Validator](https://github.com/coach-oox/form-validation)
 5. [Drawing Board](https://github.com/coach-oox/simple-drawing-board)
 6. [Memory Game](https://github.com/coach-oox/memory-game)
