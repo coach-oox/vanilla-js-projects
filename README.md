@@ -13,20 +13,13 @@ Vanilla Javascript Project for Beginners.
 ## Projects
 
 1. [Digital Clock](https://github.com/coach-oox/digital-clock)
-    - `Date`, Template literals, `setInterval`
 2. [Image Editor](https://github.com/coach-oox/image-effector)
-    - `FileReader`, `style.filter`, `forEach`
 3. [Practice Array Methods]()
 4. [Form Validator](https://github.com/coach-oox/form-validation)
-    - `ClassList`, `localStorage`
 5. [Drawing Board](https://github.com/coach-oox/simple-drawing-board)
-    - `canvas`, EventListener
 6. [Memory Game](https://github.com/coach-oox/memory-game)
-    - `createElement`, `localStorage`, Attributes, EventListener
 7. [Weather App](https://github.com/coach-oox/weather-app)
-    -  `navigator.geolocation`,`fetch`
 8. [Book Journal](https://github.com/coach-oox/book-journal-app)
-    - `createElement`, `localStorage`, `forEach`, `filter`
 24. [Pomodoro Clock]()
 25. [Music Player]()
 26. [Video Player]()
