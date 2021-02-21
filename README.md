@@ -12,23 +12,20 @@ Vanilla Javascript Project for Beginners.
 
 ## Projects
 
-1. [Tabs]()
-2. [Modals]()
-3. [Carousel Slider]()
-4. [Digital Clock](https://github.com/coach-oox/digital-clock)
+1. [Digital Clock](https://github.com/coach-oox/digital-clock)
     - `Date`, Template literals, `setInterval`
-16. [Image Editor](https://github.com/coach-oox/image-effector)
+2. [Image Editor](https://github.com/coach-oox/image-effector)
     - `FileReader`, `style.filter`, `forEach`
-18. [Practice Array Methods]()
-19. [Form Validator](https://github.com/coach-oox/form-validation)
+3. [Practice Array Methods]()
+4. [Form Validator](https://github.com/coach-oox/form-validation)
     - `ClassList`, `localStorage`
-20. [Drawing Board](https://github.com/coach-oox/simple-drawing-board)
+5. [Drawing Board](https://github.com/coach-oox/simple-drawing-board)
     - `canvas`, EventListener
-21. [Memory Game](https://github.com/coach-oox/memory-game)
+6. [Memory Game](https://github.com/coach-oox/memory-game)
     - `createElement`, `localStorage`, Attributes, EventListener
-22. [Weather App](https://github.com/coach-oox/weather-app)
+7. [Weather App](https://github.com/coach-oox/weather-app)
     -  `navigator.geolocation`,`fetch`
-23. [Book Journal](https://github.com/coach-oox/book-journal-app)
+8. [Book Journal](https://github.com/coach-oox/book-journal-app)
     - `createElement`, `localStorage`, `forEach`, `filter`
 24. [Pomodoro Clock]()
 25. [Music Player]()
