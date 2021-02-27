@@ -23,7 +23,6 @@ Vanilla Javascript Project for Beginners.
 24. [Pomodoro Clock]()
 25. [Music Player]()
 26. [Video Player]()
-27. [Memory Cards]()
 28. [Infinite Scrolling]()
 29. [Meditation App]()
 30. [To Do List]()
