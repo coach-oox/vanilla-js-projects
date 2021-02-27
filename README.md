@@ -19,7 +19,7 @@ Vanilla Javascript Project for Beginners.
 6. [Memory Game](https://github.com/coach-oox/memory-game)
 7. [Weather App](https://github.com/coach-oox/weather-app)
 8. [Book Journal](https://github.com/coach-oox/book-journal-app)
-9. 31. [Calendar](https://github.com/coach-oox/vanilla-calendar)
+9. [Calendar](https://github.com/coach-oox/vanilla-calendar)
 24. [Pomodoro Clock]()
 25. [Music Player]()
 26. [Video Player]()
