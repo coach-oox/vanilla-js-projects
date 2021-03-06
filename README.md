@@ -23,7 +23,7 @@ Vanilla Javascript Project for Beginners.
 - [Book Journal](https://github.com/coach-oox/book-journal-app)
 - [Music Player]()
 - [Video Player]()
-- [To Do List]()
+- [To Do List](https://github.com/coach-oox/vanilla-todo-list)
 - [Movie Seat Booking App]()
 - [Tic Tac Toe]()
 - [Hangman Game]()
