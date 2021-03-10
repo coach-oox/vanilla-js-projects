@@ -15,7 +15,6 @@ Vanilla Javascript Project for Beginners.
 - [Digital Clock](https://github.com/coach-oox/digital-clock)
 - [Image Editor](https://github.com/coach-oox/image-effector)
 - [Form Validator](https://github.com/coach-oox/form-validation)
-- [Infinite Scrolling]()
 - [Calendar](https://github.com/coach-oox/vanilla-calendar)
 - [Drawing Board](https://github.com/coach-oox/simple-drawing-board)
 - [Memory Game](https://github.com/coach-oox/memory-game)
