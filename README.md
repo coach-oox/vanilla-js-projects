@@ -21,7 +21,7 @@ Vanilla Javascript Project for Beginners.
 - [Weather App](https://github.com/coach-oox/weather-app)
 - [Book Journal](https://github.com/coach-oox/book-journal-app)
 - [Music Player](https://github.com/coach-oox/vanilla-music-player)
-- [Video Player]()
+- [Video Player](https://github.com/coach-oox/vanilla-video-player)
 - [To Do List](https://github.com/coach-oox/vanilla-todo-list)
 - [Movie Seat Booking App]()
 - [Tic Tac Toe]()
