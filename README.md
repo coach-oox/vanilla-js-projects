@@ -20,7 +20,7 @@ Vanilla Javascript Project for Beginners.
 - [Memory Game](https://github.com/coach-oox/memory-game)
 - [Weather App](https://github.com/coach-oox/weather-app)
 - [Book Journal](https://github.com/coach-oox/book-journal-app)
-- [Music Player]()
+- [Music Player](https://github.com/coach-oox/vanilla-music-player)
 - [Video Player]()
 - [To Do List](https://github.com/coach-oox/vanilla-todo-list)
 - [Movie Seat Booking App]()
