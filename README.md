@@ -23,7 +23,7 @@ Vanilla Javascript Project for Beginners.
 - [Music Player](https://github.com/coach-oox/vanilla-music-player)
 - [Video Player](https://github.com/coach-oox/vanilla-video-player)
 - [To Do List](https://github.com/coach-oox/vanilla-todo-list)
-- [Hangman Game]()
+- [Hangman Game](https://github.com/coach-oox/vanilla-game-hangman)
 - [Snake Game]()
 - [Typing Game]()
 - [Break Out Game]()
